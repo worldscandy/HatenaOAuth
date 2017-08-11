@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9105832f1b46c79d2e55e2120e4200223f281bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\182581d6cb44552f1e8004fccb6356adc385a5d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_22e53bd3484a62c956211db74eb553d8ca42a004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\cd958c11b557822a747aed0608b5b9981283c1f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_bb1f25f40ae7fdae05abd1c3e0b229fb505349eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\4924eb1cc81a0cb42e5c8629c17791c3c42b8b29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_9cf00d9b3e68e6a8df6bceb1e534543fa073caf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_f7dd52720e6be6c3d3017a149d57b48c71b52e2b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcdfadfc9ee4fdb0c79300a0ef80e22a1d3b3205">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cfb7fa700102bb7528b73549798f59362332bf69\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\a251beae82317ab2acf41b6d4e083d18ae03a0ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_d9e3794e64840eeb2b71858bc0ebc0c824ab6d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\7b279e36320a1ef978c3863a1cc99c67b1c04dbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_865121fba8223bcb88d3b11230e232fee4c223a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\hatenafoto\HatenaOAuth\app\libs\commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.10_d43aa249b6c7cc982be0ac66bbf573b87e0dc4e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\d6b2b548ba9ed4ee8c6453bb9d9dc22f4b0aa69a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_a534fbb66abba2767b5b09540dca44441bb10e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\4a26c52e2e8183bf8684ae7645003b1b1ebd610c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_fd557dffb17f855b7c8a12fda2d83b88d9752546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\1acc1ce264bc3de279589307605ed7888fdd8aaa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_852afd8d564e59ee597b27747270a77f5601640a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\hatenafoto\HatenaOAuth\app\libs\commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\commons-codec-1.10_d43aa249b6c7cc982be0ac66bbf573b87e0dc4e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\hatenafoto\HatenaOAuth\app\libs\signpost-core-1.2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.2_7ba1105aefe8c7bac6e921ea856d484407474cf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\a268cee9db3b3becac9c22e0f71fc97d0f7377ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_24c748bcd48af8dc8568da3086ec10809eef36e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e5004400ffe6a12e5f4d292cd1ec4947b996a755.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\hatenafoto\HatenaOAuth\app\libs\signpost-core-1.2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\transforms\dex\debug\folders\1000\2\signpost-core-1.2.1.2_7ba1105aefe8c7bac6e921ea856d484407474cf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kamadayuji\.android\build-cache\854e4384e74875d2da98021d9570741929247bd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\program\hatenafoto\HatenaOAuth\app\build\intermediates\pre-dexed\debug\classes_7c7c5bc2bded4172d7ad53d1e0c7d988f9d1fbee.jar" />
+    </item>
+
+</items>
